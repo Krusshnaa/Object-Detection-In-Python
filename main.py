@@ -1,7 +1,7 @@
 import cv2
 
 def Camera():
-    cam = cv2.VideoCapture(1)
+    cam = cv2.VideoCapture(1) // To Capture Webcam 
 
     cam.set(3, 740)
     cam.set(4, 580)
