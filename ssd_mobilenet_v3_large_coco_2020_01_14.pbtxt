@@ -1,3 +1,4 @@
+
 node {
   name: "normalized_input_image_tensor"
   op: "Placeholder"
