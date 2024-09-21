@@ -121,4 +121,10 @@ Here's the `README.md` section formatted to include the complete workflow and ad
 - The **SSD MobileNet V3** model used here is trained on the **COCO dataset**, which can recognize up to 90 different objects in real-time.
 - Make sure to adjust the webcam source (e.g., `cv2.VideoCapture(1)`) depending on your webcam setup. It might be necessary to use `cv2.VideoCapture(0)` or another index if the default one doesn't work.
 
+     
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project as long as proper attribution is provided.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests if you have suggestions or improvements.
 
